@@ -1,0 +1,10 @@
+{
+    "test-enums": {
+        "cwd": "tests",
+        "cmd": [
+            "sh",
+            "skeletons/wit_components/run_test.sh",
+            "enums"
+        ]
+    }
+}
